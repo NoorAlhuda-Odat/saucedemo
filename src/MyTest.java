@@ -95,7 +95,7 @@ public class MyTest {
 		    Thread.sleep(1000);
 		    
 		    driver.findElement(By.id("first-name")).sendKeys("Noor");
-		    driver.findElement(By.id("last-name")).sendKeys("Awdat");
+		    driver.findElement(By.id("last-name")).sendKeys("odat");
 		    driver.findElement(By.id("postal-code")).sendKeys("12345");
 		    Thread.sleep(1000);
 		    
